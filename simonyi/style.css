@@ -1,0 +1,14 @@
+
+
+h1, h2{
+color: darkblue;
+}
+
+body {
+    background-color: rgb(219, 192, 201);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 130%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 15px;
+}
